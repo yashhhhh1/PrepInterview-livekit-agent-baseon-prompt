@@ -1,4 +1,4 @@
-# PrepInterview LiveKit Agent with Dynamic Prompt
+# PrepInterview LiveKit Agent
 
 A voice-enabled AI interview agent built with LiveKit and OpenAI, featuring dynamic job descriptions and real-time conversations.
 
