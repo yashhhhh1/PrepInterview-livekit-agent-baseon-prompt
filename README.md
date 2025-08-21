@@ -2,6 +2,7 @@
 
 A voice-enabled AI interview agent built with LiveKit and OpenAI, featuring dynamic job descriptions and real-time conversations.
 
+ <span style="color:red;">⚠️ Note: This is just an example — the main PrepInterview code is private.</span>
 ## Features
 
 - 🎙️ Real-time voice conversations with AI interviewer
